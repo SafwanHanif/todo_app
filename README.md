@@ -1,6 +1,6 @@
 ## UI Mockups
 
-| Image 1 | Image 2 | Image 3 |
+| Image 2 | Image 3 | Image 1 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/878dff9c-0e59-437c-9e15-18f7a76ebe39" width="250"/> | <img src="https://github.com/user-attachments/assets/ad629040-95ba-413e-b635-ab314ba6155a" width="250"/> | <img src="https://github.com/user-attachments/assets/1f59d711-ca60-4480-a150-93d650db781b" width="250"/> |
 # 📝 Todo App
