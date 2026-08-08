@@ -40,3 +40,22 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/SafwanHanif/todo_app.git](https://github.com/SafwanHanif/todo_app.git)
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd todo_app
+
+   flutter pub get
+
+   flutter run
+
+   ---
+
+### Step-by-Step Instructions:
+
+1. Click the **Pencil icon** (Edit) at the top right of your `README.md` file.
+2. Place your cursor right below step 1 (`git clone ...`).
+3. Paste the code block above.
+4. Click the **Preview** tab to check that steps 2, 3, and 4 each have their own dark terminal box.
+5. Click **Commit changes...** at the top right to save!
+   
